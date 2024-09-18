@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kylerjacobson&show_icons=true&locale=en&layout=compact" alt="kylerjacobson" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kylerjacobson&" alt="kylerjacobson" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kylerjacobson" alt="GitHub Streak" /></a></p>
