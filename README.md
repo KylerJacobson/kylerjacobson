@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my personal blog](https://kylerjacobson.dev)
 
-- 📝 I regularly write articles on [https://kylerjacobson.dev](https://kylerjacobson.dev)
+- 📝 Sometimes I write articles on [https://kylerjacobson.dev](https://kylerjacobson.dev)
 
 - 📫 How to reach me **contact@kylerjacobson.dev**
 
