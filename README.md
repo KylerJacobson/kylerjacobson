@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyler</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kylerjacobson&label=Profile%20views&color=0e75b6&style=flat" alt="kylerjacobson" /> </p>
 
-- 🔭 I’m currently working on [my personal blog](https://kylerjacobson.dev)
-
 - 📝 Sometimes I write articles on [https://kylerjacobson.dev](https://kylerjacobson.dev)
 
 - 📫 How to reach me **contact@kylerjacobson.dev**
